@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Exemplo 01</string>
+    <string name="lblNome">Nome:</string>
+    <string name="txtNome">Humberto Sampaio</string>
+    <string name="txtMatricula">201635012</string>
+    <string name="lblMatricula">Matrícula:</string>
 </resources>
